@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TymoteuszStr
-- 👀 I’m interested in web development, Java Script, Vue.js, React  
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m interested in web development, Java Script, Vue.js, React, NodeJS
+- 🌱 I’m currently learning NodeJS
 
 
 <!---
