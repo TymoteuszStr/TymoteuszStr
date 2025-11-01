@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TymoteuszStr
-- 👀 I’m interested in web development, javacript, typescript, Vue, Nuxt, NodeJS
-- 🌱 I’m currently learning backend development with NodeJS.
+- 👀 I’m interested in web development, JavaScript, Typescript, Vue, Nuxt, React, NodeJS
+- 🌱 I’m currently learning web development with React + NodeJS.
 
 
 <!---
